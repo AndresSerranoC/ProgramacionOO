@@ -1,0 +1,7 @@
+Nombre cliente: 1
+Dirección cliente: 1
+Items en el pedido
+------------------
+Precio neto: $0
+IVA: $0
+Precio total: $0

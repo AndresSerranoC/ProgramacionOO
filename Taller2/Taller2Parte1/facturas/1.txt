@@ -1,0 +1,8 @@
+Nombre cliente: Andres
+Dirección cliente: Calle
+Items en el pedido
+------------------
+combo todoterreno-$34317
+Precio neto: $34317
+IVA: $6520
+Precio total: $40837
