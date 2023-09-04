@@ -1,0 +1,15 @@
+Nombre cliente: Andres
+Dirección cliente: Calle
+Items en el pedido
+------------------
+corral-$14000-Calorias: 250
+.................................
+Adiciones: 
+Eliminaciones: 
+Calorias: 250
+Total producto: $14000
+.................................
+Precio neto: $14000
+IVA: $2660
+Precio total: $16660Calorias: 250
+.................................
